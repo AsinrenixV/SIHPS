@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:1/12/2024
+## Register Number:24900126
+## Name:ASIN RENIX V
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,43 @@ Government of Gujarat
 
 ## Idea
 
+1. Alumni Directory: A searchable directory of alumni, including profiles, contact information, and career updates.
+2. News and Events: A news feed and event calendar featuring university news, alumni achievements, and upcoming events.
+3. Discussion Forums: Online forums for alumni to connect, share experiences, and discuss topics of interest.
+4. Mentorship Program: A platform for alumni to mentor students and young alumni, providing guidance and career advice.
+5. Job Board: A job board featuring employment opportunities, internships, and career resources.
+6. Donation Portal: A secure online donation portal for alumni to give back to the university.
+7. Event Registration: Online event registration and ticketing for university events, reunions, and conferences.
+8. Social Media Integration: Integration with social media platforms to share updates, news, and events.
+
+
 
 ## Proposed Solution / Architecture Diagram
 
+![alt text](<Screenshot (42).png>)
 
 ## Use Cases
 
+![alt text](<Screenshot (41).png>)
 
 ## Technology Stack
 
+HTML5
+
+CSS3
+
+JavaScript
+
+Node.js
+
+Express.js
+
+Database such as MongoDB or MySQL
 
 ## Dependencies
 
+Total duration:28 weeks
+
+Total team size: 8-12 people
+
+rs : 40,000
